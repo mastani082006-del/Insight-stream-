@@ -1,8 +1,16 @@
-## Documentation Download 
+## Insight stream: Navigate the news landscape 
+Documentation Download 
 (https://github.com/mastani082006-del/Insight-stream-/raw/d978091a83dc0f6599cafd7b31eb99203bff3124/InsightStream_Updated_Project_Documentation.pdf)
 
-## PPT presentation 
+PPT presentation 
 (https://1drv.ms/p/c/b7662bfa77b0f0ae/EWMoGwh2KFBOo2FArzZ25GQBYDGN6K496lOSGuuZ1HKNIw?e=rVhY87)
+
+## Team members (Team Id-NM2025TMID39261)
+Mastani I [Project lead and API integration]
+Deepika G [Developer and Responsive design]
+Nasreen fathima M [Developer and Documentation]
+Gopika R [Documentation supporting and voice over]
+Selvi G [Developer and Error handling]
 
 # Getting Started with Create React App
 
