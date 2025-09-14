@@ -7,10 +7,15 @@ PPT presentation
 
 ## Team members (Team Id-NM2025TMID39261)
 Mastani I [Project lead and API integration]
+
 Deepika G [Developer and Responsive design]
+
 Nasreen fathima M [Developer and Documentation]
+
 Gopika R [Documentation supporting and voice over]
+
 Selvi G [Developer and Error handling]
+
 
 # Getting Started with Create React App
 
